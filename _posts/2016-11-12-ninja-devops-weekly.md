@@ -8,8 +8,11 @@ categories: weekly
 ### 职场
 最近收到的消息, 需要申请的话, 请自行搜索
 - Senior Solution Architect @ Alipay  -- 最近收到很多猎头的邮件
+
 - FX Algo trading technology @ JPM
+
 - Systems Engineer @ Amazon
+
 - Deployment Engineer @ Google
 
 
