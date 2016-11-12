@@ -31,3 +31,4 @@ categories: weekly
 相信很多都做过类似的'应聘'project, 有时需要花一些时间来构思, 设计, 实现, 从面试者角度来看, 得到相应的报酬是合理的 -- 不论最终是否拿到offer. 从公司角度来说, 付钱可以让应聘者更加认真对待, 并通过这个过程彼此间加深了解.
 - Uber: [Dockerizing MySQL at Uber Engineering](https://eng.uber.com/dockerizing-mysql/) Uber把运行在1000个clusters里的4000个database server装进了doker里. 文中列举了选择/不选择docker的原因, 值得一读.
 - [Docker in Production: A History of Failure](https://thehftguy.wordpress.com/2016/11/01/docker-in-production-an-history-of-failure/) 一家拥有几百台Server的金融机构关于docker的吐槽
+- [GitHub Pages更新了Jekyll](https://github.com/blog/2277-what-s-new-in-github-pages-with-jekyll-3-3) 目前版本 Jekyll 3.3.0, 如果需要做一个简单的网站/博客, 可以使用Jekyll + Github Pages, 免费, 快速. 
