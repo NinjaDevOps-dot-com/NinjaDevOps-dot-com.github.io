@@ -10,5 +10,5 @@ permalink: /about/
 
 
 Hope you'll find this website helpful.
-In case you need to contact me: info@ninjadevops.com
+In case you need to contact me: info (at) ninjadevops.com
 
