@@ -6,17 +6,18 @@ categories: weekly
 ---
 
 ### 职场
-最近收到的消息, 需要申请的话, 请自行搜索
 
+- [写给未来的程序媛](http://insights.thoughtworkers.org/future-it-girls/)  我的经历跟本文有些差别: 在技术水平类似的情况下, 我觉得女生面试Developer成功的概率要比男生高: 一个是因为team里需要男女搭配, 调节工作环境; 另一个是HR会/公司要求diversity. 甚至有些Team会要求下一个developer, 必须招女生...(当然这些只是口头说说, 不会写在纸上)
+
+### 新工作@SG
+
+最近收到的消息, 需要申请的话, 请自行搜索
 
 - Senior Solution Architect @ Alipay  -- 最近收到很多猎头的邮件
 - FX Algo trading technology @ JPM
 - Systems Engineer @ Amazon
 - Deployment Engineer @ Google
 
-
-
-- [写给未来的程序媛](http://insights.thoughtworkers.org/future-it-girls/)  我的经历跟本文有些差别: 在技术水平类似的情况下, 我觉得女生面试Developer成功的概率要比男生高: 一个是因为team里需要男女搭配, 调节工作环境; 另一个是HR会/公司要求diversity. 甚至有些Team会要求下一个developer, 必须招女生...(当然这些只是口头说说, 不会写在纸上)
 
 
 ### 新鲜事
