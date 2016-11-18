@@ -11,6 +11,7 @@ categories: weekly
  从公司/老板角度来看, 雇佣一个developer的目标并不是写一堆代码, 而是解决问题, 带来价值 - deliver business value. 的确是这样, 在面试时我也会这么说, 可真正在
  工作中, 有时候会在心里琢磨, 我是一个developer, 我不想做support, 我也不想跟user接触, 我也不想这样, 不想那样, 我只想安静的写代码. 享受过程, 不在意结果. 
  但实际上只要增加代码/类库, 就会增加风险. 尤其是开发API, 今天图一时之快的增加所谓的feature, 其实就是在给明天的自己挖坑. 
+ 
  - [MEET UBER ENGINEERING SEATTLE](https://eng.uber.com/seattle-team-profile/)
  围观一下扩张中的Uber团队.
  
