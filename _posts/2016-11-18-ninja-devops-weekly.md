@@ -27,6 +27,10 @@ categories: weekly
  
  曾经也碰到一个如此牛逼的同事, 个中滋味, 品过才知.
  
+ - [What Test Engineers do at Google: Building Test Infrastructure](https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html)
+ 
+ Google测试工程师工作的一部分: 搭建测试基础, 譬如如何优雅的处理外部系统的依赖.
+ 
 #### 新工作
 
 只转载, 各取所需: 
