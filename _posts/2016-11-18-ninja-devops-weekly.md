@@ -42,6 +42,7 @@ categories: weekly
 
 
 ### 新鲜事
+ - [Google Test Automation Conference 2016 视频](https://www.youtube.com/watch?v=2yN53k9jz3U)
  - [StackOverflow: Why We Make Money](http://stackoverflow.blog/2016/11/How-We-Make-Money-at-Stack-Overflow-2016-Edition/)
  - [Microsoft: Open sourcing the Microsoft JDBC Driver and Maven support](https://blogs.msdn.microsoft.com/jdbcteam/2016/11/17/open-source-jdbc-maven/)
  - [Microsoft joins the Linux Foundation](https://techcrunch.com/2016/11/16/microsoft-joins-the-linux-foundation/)
