@@ -26,9 +26,9 @@ Thomson Reuters在新加坡放出前端工作[Data Experience Developer](https:/
 
 *HTTPS*
  - 曾经在一次面试中，同事问坐在对面的candidate： 描述https request发出之后发生了什么？ 
- 仔细读读，还是挺有趣的[http://robertheaton.com/2014/03/27/how-does-https-actually-work/](http://robertheaton.com/2014/03/27/how-does-https-actually-work/)
+ [这篇文章介绍的不错，不熟悉的同学不妨一读](http://robertheaton.com/2014/03/27/how-does-https-actually-work/)
 阮一峰也深入浅出的写过一篇： [数字签名是什么？](http://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html)
- - 下次可以这么问： 大部分公司都会要求员工通过proxy上网， 那么问题来了，公司里能不能解密我的https？ 
+ - 下次可以这么问： 如果用公司的电脑上网，公司能不能解密我的https？  答案是肯定的。[动手实验:](http://nickfishman.com/post/50557873036/reverse-engineering-native-apps-by-intercepting-network)
  - [Let's Encrypt Everything](https://blog.codinghorror.com/lets-encrypt-everything/)
 
 
