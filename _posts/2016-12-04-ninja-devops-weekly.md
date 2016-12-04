@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ninja DevOps Weekly 20161204"
+title:  "Ninja DevOps Weekly 20161204: AWS re:Invent, 阿里RoecktMQ,Spring Boot, 职场恶圈"
 date:   2016-12-04 16:33:28 +0800
 categories: weekly
 ---
@@ -26,3 +26,9 @@ DevOps团队的三个特征: Product-based: 啥活都干, Failing with style: �
 ### 学习
 
  - [Spring Boot @ PayPal] (https://www.infoq.com/presentations/paypal-spring-boot?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Java)
+
+- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html) 关于字符编码， 你必须掌握的知识。
+
+### 职场
+- [Awful On Purpose](http://thedailywtf.com/articles/awful-on-purpose) 来自于theDailyWTF的一篇有关工作的短文。有时候上船之后才发现加入的并不是一个Technical team，到处都是坑，并且老板并不认为这需要改进。 碰到这种环境，大概只能积极面对并选择时机跳走。[The cycle of awesome](https://stackoverflow.blog/2015/09/how-to-be-awesome/)
+
