@@ -25,7 +25,7 @@ DevOps团队的三个特征: Product-based: 啥活都干, Failing with style: �
 
 ### 学习
 
- - [Spring Boot @ PayPal] (https://www.infoq.com/presentations/paypal-spring-boot?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Java)
+ - [Spring Boot @ PayPal](https://www.infoq.com/presentations/paypal-spring-boot?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Java)
 
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html) 关于字符编码， 你必须掌握的知识。
 
