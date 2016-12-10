@@ -20,7 +20,7 @@ categories: weekly
  Audi A4, Q7的"prime connection service"用户可以通过4G LTE在美国拉斯维加斯读取交通灯信息. 红灯结束倒计时可以显示在仪表盘上. 虽然这样的功能谈不上实用,
  但这毕竟是一步.
  
- [使用GitHub Pages搭建网站, 简单的跟1一样](https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3)
+ [使用GitHub Pages搭建网站, 简单的跟1一样](https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3). 创建一个新的(或者使用一个已有的)Repository, 提交一个MarkDown, 启用GitHub Pages, 就这么简单. 
  
 ## 职场
  
