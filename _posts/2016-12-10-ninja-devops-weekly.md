@@ -43,3 +43,4 @@ categories: weekly
  
  [使用ANTLR设计一门编程语言](http://progur.com/2016/09/how-to-create-language-using-antlr4.html)
  
+ [启动你免费的Linux!](https://termbox.io/) 没错, 只需要点击三次! 你可以快速启动一个属于和你的Ubuntu, Debian,CentOS等Linux系统, 该系统配置512M RAM, 10GB disk, 可使用三小时. 网站内置SSH!  为什么免费? 该网站FAQ中提到: 根据我们目前的规模, 启动一个系统的费用约为$0.0002, 因此免费. 
