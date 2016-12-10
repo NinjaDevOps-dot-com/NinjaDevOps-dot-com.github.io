@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ninja DevOps Weekly 20161210: Google开发者大会, 奥迪汽车读取交通灯, GitHub Pages搭建网站, Amazon远程面试"
+title:  "NinjaDevOps Weekly 20161210: Google开发者大会, 奥迪汽车读取交通灯, GitHub Pages搭建网站, Amazon远程面试"
 date:   2016-12-10 10:14:28 +0800
 categories: weekly
 ---
