@@ -14,7 +14,7 @@ categories: weekly
  Google.cn推出了免翻墙文档: https://developers.google.cn/
  
  上个月Google举办了第10届[GTAC Google Test Automation Conference 2016](https://www.youtube.com/playlist?list=PLSIUOFhnxEiAeGHYoBZCvEMY5wCOIpyOM).
- 视频终于在本周放出: [YouTube GTAC 2015 playlist](https://www.youtube.com/playlist?list=PLSIUOFhnxEiAeGHYoBZCvEMY5wCOIpyOM)
+ 视频终于在本周放出: [YouTube GTAC 2016 playlist](https://www.youtube.com/playlist?list=PLSIUOFhnxEiAeGHYoBZCvEMY5wCOIpyOM)
  
  [奥迪汽车可以读取交通灯信息](http://spectrum.ieee.org/cars-that-think/transportation/infrastructure/audi-cars-now-talk-to-stop-lights-in-vegas)
  Audi A4, Q7的"prime connection service"用户可以通过4G LTE在美国拉斯维加斯读取交通灯信息. 红灯结束倒计时可以显示在仪表盘上. 虽然这样的功能谈不上实用,
