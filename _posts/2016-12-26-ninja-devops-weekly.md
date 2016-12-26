@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NinjaDevOps Weekly #20161217 微软免费的ASP.NET Core培训, Kubernetes支持Windows Server 2016, Python参数设置神器Click"
+title:  "NinjaDevOps Weekly #20161226 微软免费的ASP.NET Core培训, Kubernetes支持Windows Server 2016, Python参数设置神器Click"
 date:   2016-12-26 10:47:00 +0800
 categories: weekly
 ---
