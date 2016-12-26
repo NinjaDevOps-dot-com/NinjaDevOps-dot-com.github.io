@@ -17,5 +17,8 @@ Microsoft Virtual Academy推出的五集关于ASP.NET Core 1.0的免费培训视
 
 
 ### Python
+[Python 3.6 发布](https://docs.python.org/3.6/whatsnew/3.6.html)
+
+
 [命令行神器 Click 简明笔记](https://funhacks.net/2016/12/20/click/)
 Argparse用起来实在是麻烦, Click就是"for human being'的Argparse! 
