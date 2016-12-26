@@ -13,7 +13,7 @@ categories: weekly
 
 ### .Net Core
 [微软 - 免费的ASP.NET Core培训](http://www.hanselman.com/blog/FreeIntermediateASPNETCore10TrainingOnMicrosoftVirtualAcademy.aspx)
-Microsoft Virtual Academy推出的五集关于ASP.NET Core 1.0的免费视频:  [Introduction to ASP.NET Core 1.0]()涉及: .net Core介绍及工具, Middleware, Routing, MVC, UI操作, Logging等等. 
+Microsoft Virtual Academy推出的五集关于ASP.NET Core 1.0的免费培训视频:  [Introduction to ASP.NET Core 1.0]()涉及: .net Core介绍及工具, Middleware, Routing, MVC, UI操作, Logging等等. 
 
 
 ### Python
