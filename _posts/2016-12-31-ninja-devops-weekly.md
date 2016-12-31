@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#8 程序员的职业生涯: 程序员的20～30岁该怎么度过？"
+title:  "NinjaDevOps#8 聊聊职业生涯: 程序员的20～30岁该怎么度过？ Docker， Azure学习干货"
 date:   2016-12-31 10:00:00 +0800
 categories: weekly
 ---
