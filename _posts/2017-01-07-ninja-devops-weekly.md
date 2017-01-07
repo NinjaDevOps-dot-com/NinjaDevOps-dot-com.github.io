@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NinjaDevOps Weekly #9 淡定的公司, 工作场合交朋友? 我为什么偏好Kotlin, Python之旅, 防御式编程"
+title:  "DevOpsWeekly #9 淡定的公司, 工作场合交的朋友, 我为什么偏好Kotlin, Python之旅, 防御式编程"
 date:   2016-01-07 10:00:00 +0800
 categories: weekly
 ---
