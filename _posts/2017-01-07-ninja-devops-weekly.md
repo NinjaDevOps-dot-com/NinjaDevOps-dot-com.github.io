@@ -36,22 +36,22 @@ categories: weekly
  
  - [我为什么喜欢Kotlin](https://dev.to/grahamcox82/why-i-prefer-kotlin)
   
-  Kotlin是[JetBrains]发布的一种强类型语言, [具体戳此](https://kotlinlang.org/docs/reference/faq.html). 作者喜欢Kotlin的原因很简单: Kotlin简化
+   Kotlin是[JetBrains]发布的一种强类型语言, [具体戳此](https://kotlinlang.org/docs/reference/faq.html). 作者喜欢Kotlin的原因很简单: Kotlin简化
   了Java, 更少的代码, 更好的可阅读性跟可维护性. 
   
  - [The Art of Defensive Programming](https://dev.to/0x13a/the-art-of-defensive-programming)
  
-  防御不可能发生的事情, 因为它们可能发生. 永远不要相信用户会输入你期待的东西; 不要相信developer, 遵循SOLID规则, 写测试;  
+   防御不可能发生的事情, 因为它们可能发生. 永远不要相信用户会输入你期待的东西; 不要相信developer, 遵循SOLID规则, 写测试;  
   在现实工作中, 小编也遇到过很多因为"相信"或者"假设"而出现的问题. 小编最后甚至连自己都不相信了, [Trust, but verify](https://en.wikipedia.org/wiki/Trust,_but_verify)
    
  - [Python之旅 (中文)](https://funhacks.net/2017/01/03/explore_python/)
  
-  如果你刚开始学习Python, 不妨参考这本学习笔记. 小编也要查缺补漏! [戳此](https://funhacks.net/2017/01/03/explore_python/)
+   如果你刚开始学习Python, 不妨参考这本学习笔记. 小编也要查缺补漏! [戳此](https://funhacks.net/2017/01/03/explore_python/)
    
  - [区块链基础 Blockchain Basics](https://www.youtube.com/watch?v=nUMiTj5YjOI)
  
-    来自微软云平台的介绍: [Youtube视频](https://www.youtube.com/watch?v=nUMiTj5YjOI)
+   来自微软云平台的介绍: [Youtube视频](https://www.youtube.com/watch?v=nUMiTj5YjOI)
   
  - [AWS VPS: Amazon Lightsail – 兼具 AWS 的强大功能与 VPS 的简易性](https://aws.amazon.com/cn/blogs/china/amazon-lightsail-the-power-of-aws-the-simplicity-of-a-vps/)
  
-  去年11月起Amazon推出了$5/月起的VPS服务 [Amazon Lightsail](https://amazonlightsail.com/), 目前只对US East开放. [戳此看AWS国内博客的翻译](https://aws.amazon.com/cn/blogs/china/amazon-lightsail-the-power-of-aws-the-simplicity-of-a-vps/)
+   去年11月起Amazon推出了$5/月起的VPS服务 [Amazon Lightsail](https://amazonlightsail.com/), 目前只对US East开放. [戳此看AWS国内博客的翻译](https://aws.amazon.com/cn/blogs/china/amazon-lightsail-the-power-of-aws-the-simplicity-of-a-vps/)
