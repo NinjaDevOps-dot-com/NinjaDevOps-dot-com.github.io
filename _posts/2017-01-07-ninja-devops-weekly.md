@@ -18,12 +18,12 @@ categories: weekly
    
  - [工作中的好朋友可以让你做的更好](https://slackhq.com/why-a-best-friend-at-work-can-help-you-do-your-job-better-36533a5f10c2)
  
-  我们经常听到别人的建议: 不要把工作跟生活纠缠在一起. 小编也刻意的把两个圈子隔离开来. 不过有时候, 我们可以(或者说需要)在工作上找到好朋友, 
+   我们经常听到别人的建议: 不要把工作跟生活纠缠在一起. 小编也刻意的把两个圈子隔离开来. 不过有时候, 我们可以(或者说需要)在工作上找到好朋友, 
  并且他们会让我们在工作中做的更好. 不过小编也曾有过几个工作上的朋友, 他们曾给过我很多中肯的建议及指导. [戳此看Slack Blog上的原文](https://slackhq.com/why-a-best-friend-at-work-can-help-you-do-your-job-better-36533a5f10c2)
  
  - [五个建议: 给忙的不可开交的你](http://lifehacker.com/five-tips-for-when-you-just-have-too-much-to-do-1790714627)
  
- 在你忙的不可开交的时候, 不妨抓住这个时机跳出来看看自己的环境, 审视自己的感受, 把这些挑战当成锻炼的机会; 意识到自己只能做一件事情, 排除要做其他所有事情的杂念; 专注在最重要的事情上;
+  在你忙的不可开交的时候, 不妨抓住这个时机跳出来看看自己的环境, 审视自己的感受, 把这些挑战当成锻炼的机会; 意识到自己只能做一件事情, 排除要做其他所有事情的杂念; 专注在最重要的事情上;
  学会放弃; 生命很短, 不要浪费时间与精力在做不完的工作上, 不如开心的做现在能做的事情.  [戳此读原文](http://lifehacker.com/five-tips-for-when-you-just-have-too-much-to-do-1790714627)
  
  - [写给程序员的7个关于设计的教训](https://dev.to/pradeep_io/7-design-lessons-for-a-developer)
@@ -33,6 +33,7 @@ categories: weekly
  
  
  ## 学习
+ 
  - [我为什么喜欢Kotlin](https://dev.to/grahamcox82/why-i-prefer-kotlin)
   
   Kotlin是[JetBrains]发布的一种强类型语言, [具体戳此](https://kotlinlang.org/docs/reference/faq.html). 作者喜欢Kotlin的原因很简单: Kotlin简化
@@ -49,8 +50,8 @@ categories: weekly
    
  - [区块链基础 Blockchain Basics](https://www.youtube.com/watch?v=nUMiTj5YjOI)
  
-  来自微软云平台的介绍: [Youtube视频](https://www.youtube.com/watch?v=nUMiTj5YjOI)
+    来自微软云平台的介绍: [Youtube视频](https://www.youtube.com/watch?v=nUMiTj5YjOI)
   
  - [AWS VPS: Amazon Lightsail – 兼具 AWS 的强大功能与 VPS 的简易性](https://aws.amazon.com/cn/blogs/china/amazon-lightsail-the-power-of-aws-the-simplicity-of-a-vps/)
  
- 去年11月起Amazon推出了$5/月起的VPS服务 [Amazon Lightsail](https://amazonlightsail.com/), 目前只对US East开放. [戳此看AWS国内博客的翻译](https://aws.amazon.com/cn/blogs/china/amazon-lightsail-the-power-of-aws-the-simplicity-of-a-vps/)
+  去年11月起Amazon推出了$5/月起的VPS服务 [Amazon Lightsail](https://amazonlightsail.com/), 目前只对US East开放. [戳此看AWS国内博客的翻译](https://aws.amazon.com/cn/blogs/china/amazon-lightsail-the-power-of-aws-the-simplicity-of-a-vps/)
