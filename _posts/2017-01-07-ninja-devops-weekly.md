@@ -30,10 +30,9 @@ categories: weekly
  
    用户总是会犯错, 即使很简单的事情, 这是你的职责去减少错误的可能性并让用户们感觉良好; 假设用户只能记住三个最近的项目; 用户反馈很重要; 如果有困惑时, 跟用户聊聊. 
  [戳此读原文](https://dev.to/pradeep_io/7-design-lessons-for-a-developer)
- 
 
 
- ## 学习
+## 学习
  
  - [我为什么喜欢Kotlin](https://dev.to/grahamcox82/why-i-prefer-kotlin)
   
