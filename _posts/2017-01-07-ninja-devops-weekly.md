@@ -23,7 +23,7 @@ categories: weekly
  
  - [五个建议: 给忙的不可开交的你](http://lifehacker.com/five-tips-for-when-you-just-have-too-much-to-do-1790714627)
  
-  在你忙的不可开交的时候, 不妨抓住这个时机跳出来看看自己的环境, 审视自己的感受, 把这些挑战当成锻炼的机会; 意识到自己只能做一件事情, 排除要做其他所有事情的杂念; 专注在最重要的事情上;
+   在你忙的不可开交的时候, 不妨抓住这个时机跳出来看看自己的环境, 审视自己的感受, 把这些挑战当成锻炼的机会; 意识到自己只能做一件事情, 排除要做其他所有事情的杂念; 专注在最重要的事情上;
  学会放弃; 生命很短, 不要浪费时间与精力在做不完的工作上, 不如开心的做现在能做的事情.  [戳此读原文](http://lifehacker.com/five-tips-for-when-you-just-have-too-much-to-do-1790714627)
  
  - [写给程序员的7个关于设计的教训](https://dev.to/pradeep_io/7-design-lessons-for-a-developer)
@@ -31,7 +31,8 @@ categories: weekly
    用户总是会犯错, 即使很简单的事情, 这是你的职责去减少错误的可能性并让用户们感觉良好; 假设用户只能记住三个最近的项目; 用户反馈很重要; 如果有困惑时, 跟用户聊聊. 
  [戳此读原文](https://dev.to/pradeep_io/7-design-lessons-for-a-developer)
  
- 
+
+
  ## 学习
  
  - [我为什么喜欢Kotlin](https://dev.to/grahamcox82/why-i-prefer-kotlin)
