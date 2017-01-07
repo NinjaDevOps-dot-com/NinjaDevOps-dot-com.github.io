@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DevOpsWeekly #9 淡定的公司, 工作场合交的朋友, 我为什么偏好Kotlin, Python之旅, 防御式编程"
+title:  "DevOpsWeekly #9 淡定的公司, 工作场合交的朋友, 5美元起的AWS VPS, 我为什么偏好Kotlin, Python之旅, 防御式编程"
 date:   2016-01-07 10:00:00 +0800
 categories: weekly
 ---
@@ -51,3 +51,6 @@ categories: weekly
  
   来自微软云平台的介绍: [Youtube视频](https://www.youtube.com/watch?v=nUMiTj5YjOI)
   
+ - [AWS VPS: Amazon Lightsail – 兼具 AWS 的强大功能与 VPS 的简易性](https://aws.amazon.com/cn/blogs/china/amazon-lightsail-the-power-of-aws-the-simplicity-of-a-vps/)
+ 
+ 去年11月起Amazon推出了$5/月起的VPS服务 [Amazon Lightsail](https://amazonlightsail.com/), 目前只对US East开放. [戳此看AWS国内博客的翻译](https://aws.amazon.com/cn/blogs/china/amazon-lightsail-the-power-of-aws-the-simplicity-of-a-vps/)
