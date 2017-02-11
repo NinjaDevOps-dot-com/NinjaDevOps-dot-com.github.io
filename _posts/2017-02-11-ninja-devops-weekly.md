@@ -44,8 +44,7 @@ categories: weekly
  - [Jason Fried:Why the hell not?](https://m.signalvnoise.com/why-the-hell-not-27c3fa735157#.sfo1spz0o)
     为什么版权要放在书本的第一页? 为什么不是最后一页呢?
  
- 
- # 学习
+# 学习
  
  - [EverNote Google Cloud Platform的迁移之旅](https://blog.evernote.com/tech/2017/02/08/part-1-evernote-service-options-migrate-google-cloud-platform-gcp/)
     一共五篇.
