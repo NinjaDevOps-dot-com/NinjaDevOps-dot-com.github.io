@@ -46,6 +46,7 @@ categories: weekly
  
  
  # 学习
+ 
  - [EverNote Google Cloud Platform的迁移之旅](https://blog.evernote.com/tech/2017/02/08/part-1-evernote-service-options-migrate-google-cloud-platform-gcp/)
     一共五篇.
 
@@ -57,7 +58,11 @@ categories: weekly
 
 - [How Etsy Manages HTTPS and SSL Certificates for Custom Domains on Pattern](https://codeascraft.com/2017/01/31/how-etsy-manages-https-and-ssl-certificates-for-custom-domains-on-pattern/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=rss)
     使用免费的Let's Encrypt自动化的管理SSL
+    
+ - [为什么文件名要小写？](http://www.ruanyifeng.com/blog/2017/02/filename-should-be-lowercase.html)
+ 阮一峰老师关于文件名大小写的建议:　"文件名建议只使用小写字母，不使用大写字母。"　"为了醒目，某些说明文件的文件名，可以使用大写字母，比如README、LICENSE。"
 
+ 
 # 职场/工作
 
 - [Uber面试题:  Longest Increasing Subarray](http://blog.gainlo.co/index.php/2017/02/02/uber-interview-questions-longest-increasing-subarray/)
