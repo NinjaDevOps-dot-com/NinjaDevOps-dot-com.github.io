@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DevOpsWeekly#12 从GitLab误删数据库想到的， Stripe如何做migration，关于求职简历的几条建议"
+title:  "DevOpsWeekly#12 .Net语言策略, TeamCity Configuration as code, EverNote的GCP迁移之旅, Event-Driven设计, Uber面试题"
 date:   2017-02-11 17:00:00 +0800
 categories: weekly
 ---
