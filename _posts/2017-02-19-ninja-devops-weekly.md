@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "DevOpsWeekly#13 Instapaper事故分析, 码农的义务, 在stack overflow远程工作,Google Testing Blog:Discomfort as a Tool for Change, 采访Agile Manifesto co-author Martin Fowler"
+date:   2017-02-19 17:00:00 +0800
+categories: weekly
+---
 
 - [**Instapaper事故分析: Instapaper Outage Cause & Recovery**](https://medium.com/making-instapaper/instapaper-outage-cause-recovery-3c32a7e9cc5f#.i1k13dx2g)
 
