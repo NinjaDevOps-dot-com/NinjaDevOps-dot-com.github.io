@@ -1,11 +1,4 @@
 
----
-layout: post
-title:  "DevOpsWeekly#13 Instapaper事故分析, 码农的义务, 在stack overflow远程工作,Google Testing Blog:Discomfort as a Tool for Change, 采访Agile Manifesto co-author Martin Fowler"
-date:   2017-02-19 17:00:00 +0800
-categories: weekly
----
-
 - [**Instapaper事故分析: Instapaper Outage Cause & Recovery**](https://medium.com/making-instapaper/instapaper-outage-cause-recovery-3c32a7e9cc5f#.i1k13dx2g)
 
     Instapaper使用基于Amazon的Relational Datbase Service(RDS)的MySQL, 事故原因是由于2TB文件大小限制: `"The table 'bookmarks' is full"`, RDS console并没警告信息. 宕机之后试着备份并转移数据,但耗时太久. 于是花6小时新建一个"limited access"的instance, 此时已宕机31小时. 由于缺少应对此类紧急情况的计划, 他们并不清楚备份并恢复数据库需要多久. 一开始的估计是6~8小时, 但后来发现需要好几天. 最后一个Aamazon的工程师mount了一个ext4的文件系统到处问题的数据库服务器上,resync了之前的ext3文件, 8小时候一个基于ext4的数据库恢复成功. Action items:
