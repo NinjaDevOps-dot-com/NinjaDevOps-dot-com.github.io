@@ -19,7 +19,7 @@ SHA1不够安全已经不是什么新闻. 2014年9月, google security blog就�
 0起点的新手Vim指南. 
 
 
-### [**在Uber的那一年 Reflecting On One Very, Very Strange Year At Uber**] (https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber)
+### [**在Uber的那一年 Reflecting On One Very, Very Strange Year At Uber**](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber)
 
 女员工在公司受到上司性骚扰该怎么办? HR可能并不会帮你. 作者亲身经历的一年, 最终以离职结束那奇葩的经历. 紧接着techCrunch有文章指出, [还有一些其他的技术公司也没能处理好性骚扰](https://techcrunch.com/2017/02/20/uber-is-not-the-only-tech-company-that-mishandles-sexual-harassment-claims/?ncid=rss)
     后来Uber召开了all-hands, 称他们将会了解错误并且fix it. 
