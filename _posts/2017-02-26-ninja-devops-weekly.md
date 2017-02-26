@@ -34,4 +34,4 @@ SHA1不够安全已经不是什么新闻. 2014年9月, google security blog就�
 
 ### [**程序员需要一张大学文凭吗? Do Developers Need College Degrees?**](http://www.stackoverflow.blog/code-for-a-living/do-developers-need-college-degrees)
 
-答案是: 不一定. 
+答案是: 不一定. 详细可阅读StackOverflow的博客原文 
