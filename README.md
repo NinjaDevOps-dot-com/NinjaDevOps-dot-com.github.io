@@ -6,7 +6,7 @@
 
 by [ninjadevops.com]( https://ninjadevops.com)
 
-Rss 订阅:[http://ninjadevops.com/feed.xml]( http://ninjadevops.com/feed.xml)
+Rss 订阅: [http://ninjadevops.com/feed.xml]( http://ninjadevops.com/feed.xml)
 
 微信订阅:
 
