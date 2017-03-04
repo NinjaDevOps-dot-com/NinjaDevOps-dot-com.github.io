@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DevOpsWeekly#15 AWS S3故障分析, Uncle bob: TDD有损架构? Google开源Python命令行生成工具, 面试时HR问现在收入该怎么回答?"
+title:  "DevOpsWeekly#15 AWS S3故障分析, Uncle Bob: TDD有损架构? Google开源Python命令行生成工具, 面试时HR问现在收入该怎么回答?"
 date:   2017-03-04 13:00:00 +0800
 categories: weekly
 tags: devops
