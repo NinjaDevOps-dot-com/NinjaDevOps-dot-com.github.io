@@ -56,5 +56,5 @@ tags: devops
 
 **插播广告**
 如果您乐于贡献, 欢迎你每周抽出时间来为所有读者推荐富有营养的文章, 您可以通过以下方式推荐您的内容及点评:
- - gitbug issue:　https://github.com/NinjaDevOps-dot-com/NinjaDevOps-dot-com.github.io/issues
+ - 提交[gitbug issue](https://github.com/NinjaDevOps-dot-com/NinjaDevOps-dot-com.github.io/issues)
  - Email: info at ninjadevops.com
