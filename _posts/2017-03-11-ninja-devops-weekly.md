@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DevOpsWeekly#16 Google云计算的永久免费计划, 程序员招聘趋势, 播客-采访敏捷宣言的作者们, 老板应该保护员工的时间, 持续集成认证"
+title:  "DevOpsWeekly#16 Google云计算推出永久免费计划, 程序员招聘趋势, 播客-采访敏捷宣言的作者们, 老板应该保护员工的时间, 持续集成认证"
 date:   2017-03-11 13:00:00 +0800
 categories: weekly
 tags: devops
