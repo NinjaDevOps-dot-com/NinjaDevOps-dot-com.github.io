@@ -51,3 +51,10 @@ tags: devops
   3. 如果build/test 失败, 问题会在10分钟内解决掉. 
   
   只有跑在每个人天天commit的"shared mainline"上的CI才是真正的CI. 跑在FeatureBranch上的所谓CI是` Daemonic Continuous Integration`, 因为这并不能带来期望的效果. 每个人的code based都不应该在明显偏离其他人的, CI意味着整个团队了解目前code的真实状态, 避免big risky的merge, 在需要重构的时候就大胆重构. [阅读Martin Fowler的原文.](https://martinfowler.com/bliki/ContinuousIntegrationCertification.html)
+
+---
+
+**插播广告**
+如果您乐于贡献, 欢迎你每周抽出时间来为所有读者推荐富有营养的文章, 您可以通过以下方式推荐您的内容及点评:
+ - gitbug issue:　https://github.com/NinjaDevOps-dot-com/NinjaDevOps-dot-com.github.io/issues
+ - Email: info at ninjadevops.com
