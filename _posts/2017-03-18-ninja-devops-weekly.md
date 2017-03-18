@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DevOpsWeekly#17 神经网络训练是一种编程吗? 微软Flow, 免费的自动化服务; 如何完败你的写代码面试? 该选择怎样FeatureBranch工作方式? DNS原理入门"
+title:  "DevOpsWeekly#17 神经网络训练是一种编程吗? 微软Flow, 免费的自动化服务; 如何完败你的写代码面试? 该选择哪种FeatureBranch工作方式? DNS原理入门"
 date:   2017-03-18 14:00:00 +0800
 categories: weekly
 tags: devops
