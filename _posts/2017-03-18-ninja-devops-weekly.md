@@ -25,7 +25,7 @@ tags: devops
   ```
   [如果我超过时间没更新博客, 请提醒我!](https://flow.microsoft.com/en-us/blog/fotw-remind-to-post/)
   如果你喜欢/需要类似的自动化服务, 你也许应该尝试IFFT/Zapier, 
-  微软于2016年推出了Flow服务, 该服务类似于IFFT/Zapier,帮助用户自动化集成外部应用/服务. 譬如当设定的RSS有更新时, 自动发布到Twitter跟Facebook, 然后再call一个http服务, 之后再发邮件通知流程执行完毕等等. 
+  微软于2016年推出了Flow服务, 该服务类似于IFTTT/Zapier,帮助用户自动化集成外部应用/服务. 譬如当设定的RSS有更新时, 自动发布到Twitter跟Facebook, 然后再call一个http服务, 之后再发邮件通知流程执行完毕等等. 
 
   免费配额: 750次运行/月. 
 
