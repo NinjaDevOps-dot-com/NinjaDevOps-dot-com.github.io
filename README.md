@@ -1,6 +1,4 @@
-# devopshub-org.github.io -> NinjaDevOps-dot-com.github.io
-
-[source code of ninjadevops.com](https://ninjadevops.com)
+# [source code of ninjadevops.com](https://ninjadevops.com)
 
 ---
 
