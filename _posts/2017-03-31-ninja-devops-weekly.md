@@ -59,6 +59,7 @@ Nick Craver是一名就职于Stack Exchange的工程师, 在工作中他扮演�
 
 访问网页版/PDF:[thoughtworks.com/radar](https://www.thoughtworks.com/radar).  直达[简体中文PDF](https://assets.thoughtworks.com/assets/technology-radar-vol-16-cn.pdf)
 
+---
 
  ### (英文/中文)[**SaaS型初创企业安全101 Security 101 for SaaS startups**](https://github.com/forter/security-101-for-saas-startups)
  
