@@ -26,7 +26,7 @@ tags: devops
   - 自我表达的系统及流程 Self-documented systems and processes, 而不是文档里的指示步骤.
   - 为所有文件提供版本控制
   - 持续测试系统及流程, 使用Deployment Pipelines来对基础设施应用Continuous Delivery
-  - 偏好小的改变, 基础设置变化越大, 风险越高, 问题也越不容易发现
+  - 偏好小规模的改变, Infrastructure配置变化越大, 风险越高, 问题也越不容易发现
   - 保持服务持续可用. 采用BlueGreenDeployment/ParallelChange等技术, 在保证服务可用的情况下, 快速发布小规模更新. 
 
  这些方法有很多好处, 譬如: 
