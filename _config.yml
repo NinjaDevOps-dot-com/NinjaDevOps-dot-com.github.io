@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ninjia DevOps 
+title: Ninjia DevOps
 email: info@ninjadevops.com 
 description: > # this means to ignore newlines until "baseurl:"
   sharing experiences and ideas about software development and operation.
   分享有关软件开发／运维的点滴.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://ninjadevops.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: NinjaDevOps
+github_username:  NinjaDevOps
 
 # Build settings
 markdown: kramdown
