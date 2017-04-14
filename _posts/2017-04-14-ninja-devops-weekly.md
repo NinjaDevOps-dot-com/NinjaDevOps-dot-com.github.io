@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DevOpsWeekly#21 面向软件团队的杂志Increment第一期&#58;　On-Call,　 保持离职之心, 谷歌发布基于AI的画图工具, Elasticsearch是如何工作的? Spotify与DNS的爱恨交织"
+title:  "DevOpsWeekly#21 面向软件团队的杂志Increment第一期:On-Call, 保持离职之心, 谷歌发布基于AI的画图工具, Elasticsearch是如何工作的? Spotify与DNS的爱恨交织"
 date:   2017-04-14 23:00:00 +0800
 categories: weekly
 tags: devops
