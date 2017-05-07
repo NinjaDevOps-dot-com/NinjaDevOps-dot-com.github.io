@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DevOpsWeekly#Ops的未来, Java5月摘要, 作为一等公民的测试, JSON劫持, 如何让自己多读书"
+title:  "DevOpsWeekly#24 Ops的未来, Java5月摘要, 作为一等公民的测试, JSON劫持, 如何让自己多读书"
 date:   2017-05-07 15:22:35 +0800
 categories: weekly
 tags: devops
